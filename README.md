@@ -1,7 +1,7 @@
 # escape-simulation
-Slider = simulation speed
-0 = clear cell
-1 = add wall
+Slider = simulation speed<br />
+0 = clear cell<br />
+1 = add wall<br />
 2 = place exit
 3 = place pedestrian
 4 = place fire block
